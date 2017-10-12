@@ -1,2 +1,2 @@
-# javascript
-still learning
+# JavaScript
+Keep learning
